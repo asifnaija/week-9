@@ -1,0 +1,5 @@
+{
+  "name": "LearnFlow",
+  "description": "A modern edutech platform featuring course catalogs, progress tracking, wishlist management, and dark mode. Built for high testability.",
+  "requestFramePermissions": []
+}
